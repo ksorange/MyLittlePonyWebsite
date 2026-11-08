@@ -110,6 +110,7 @@ if (isset($_POST['find_pony'])) {
 
 <div class="container">
     <h1>Welcome to Ponyville!</h1>
+    <p> KYLA SABINES IT3R3 SOFT ENG PROJECT</p>
     <p>Today is: <?php echo date("F j, Y"); ?></p>
 
     <!-- Part 1: Random Pony Picker -->
